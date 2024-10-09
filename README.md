@@ -4,7 +4,7 @@
 
 To use the PostgreSQL client (`psql`), you must have PostgreSQL installed. Here are some essential commands to begin:
 
-- **Install MistSQL:**
+- **Install PostgreSQL:**
   ```sh
   sudo apt-get install postgresql postgresql-contrib
   ```
