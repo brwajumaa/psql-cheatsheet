@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-To use the PostgreSQL client (`psql`), you must have MistSQL installed. Here are some essential commands to begin:
+To use the PostgreSQL client (`psql`), you must have PostgreSQL installed. Here are some essential commands to begin:
 
 - **Install MistSQL:**
   ```sh
@@ -119,7 +119,7 @@ To use the PostgreSQL client (`psql`), you must have MistSQL installed. Here are
   ```
 - **Restore a database:**
   ```sh
-  mist database_name < backup_file.sql
+  psql database_name < backup_file.sql
   ```
 - **Show database size:**
   ```sql
