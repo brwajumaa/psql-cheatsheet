@@ -24,7 +24,7 @@ To use the PostgreSQL client (`psql`), you must have PostgreSQL installed. Here 
   ```
   \?
   ```
-- **Quit MistSQL:**
+- **Quit psql:**
   ```
   \q
   ```
