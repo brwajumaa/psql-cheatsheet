@@ -8,7 +8,7 @@ To use the PostgreSQL client (`psql`), you must have PostgreSQL installed. Here 
   ```sh
   sudo apt-get install postgresql postgresql-contrib
   ```
-- **Access MistSQL shell:**
+- **Access PostgreSQL shell:**
   ```sh
   psql -U [username]
   ```
